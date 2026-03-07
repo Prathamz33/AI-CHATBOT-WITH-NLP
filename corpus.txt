@@ -1,0 +1,323 @@
+Artificial Intelligence is the simulation of human intelligence in machines.
+Machine Learning is a subset of Artificial Intelligence.
+Deep Learning uses neural networks to model complex patterns.
+Natural Language Processing enables machines to understand human language.
+Computer Vision allows machines to interpret images and videos.
+Data Science combines statistics, programming, and domain expertise.
+Python is widely used in data science and AI.
+Java is an object-oriented programming language.
+C++ is used in system programming and game development.
+C is a procedural programming language.
+JavaScript is used for frontend web development.
+HTML structures web pages.
+CSS styles web pages.
+React is a JavaScript library for building user interfaces.
+Node.js enables backend development using JavaScript.
+Django is a Python web framework.
+Flask is a lightweight Python web framework.
+SQL is used to query relational databases.
+MySQL is a relational database management system.
+PostgreSQL is an advanced open-source database.
+MongoDB is a NoSQL database.
+Power BI is a business intelligence tool.
+Tableau is used for data visualization.
+Excel is used for spreadsheet analysis.
+Pandas is a Python library for data analysis.
+NumPy is used for numerical computing in Python.
+Matplotlib is used for data visualization in Python.
+Seaborn is built on top of Matplotlib.
+Scikit-learn is used for machine learning in Python.
+TensorFlow is a deep learning framework.
+Keras is a high-level deep learning API.
+PyTorch is a deep learning framework.
+Supervised learning uses labeled data.
+Unsupervised learning finds hidden patterns in data.
+Reinforcement learning learns through rewards.
+Regression predicts continuous values.
+Classification predicts categories.
+Clustering groups similar data points.
+Decision trees are used for classification and regression.
+Random Forest is an ensemble learning method.
+Support Vector Machines are supervised learning models.
+K-means is a clustering algorithm.
+Linear regression models relationships between variables.
+Logistic regression is used for binary classification.
+Neural networks consist of layers of neurons.
+Convolutional Neural Networks are used in image processing.
+Recurrent Neural Networks handle sequential data.
+Transformers are used in modern NLP models.
+Chatbots simulate human conversations.
+APIs allow communication between systems.
+REST API follows REST architecture principles.
+JSON is a lightweight data format.
+HTTP is a protocol for web communication.
+Git is a version control system.
+GitHub is used for code hosting.
+Agile is a project management methodology.
+Scrum is a framework under Agile.
+DevOps integrates development and operations.
+CI/CD automates testing and deployment.
+Cloud computing provides computing services over the internet.
+AWS is a cloud computing platform.
+Microsoft Azure is a cloud platform.
+Google Cloud is a cloud service provider.
+Docker is a containerization platform.
+Kubernetes manages containerized applications.
+Cybersecurity protects digital assets.
+Encryption secures data.
+Firewalls prevent unauthorized access.
+Blockchain is a distributed ledger technology.
+Data structures organize data efficiently.
+Arrays store elements in sequence.
+Linked lists store elements with pointers.
+Stacks follow LIFO principle.
+Queues follow FIFO principle.
+Trees are hierarchical data structures.
+Graphs represent relationships between nodes.
+Algorithms solve computational problems.
+Time complexity measures algorithm efficiency.
+Space complexity measures memory usage.
+Big O notation describes performance.
+Object-Oriented Programming uses classes and objects.
+Encapsulation hides internal details.
+Inheritance allows code reuse.
+Polymorphism allows multiple behaviors.
+Abstraction simplifies complex systems.
+Frontend development handles user interfaces.
+Backend development handles server logic.
+Full stack developers work on both frontend and backend.
+Software testing ensures quality.
+Unit testing tests individual components.
+Integration testing tests combined components.
+System testing tests complete systems.
+Manual testing involves human execution.
+Automation testing uses scripts.
+Selenium is used for web automation.
+Jira is used for project tracking.
+Linux is an open-source operating system.
+Windows is a popular operating system.
+MacOS is developed by Apple.
+Virtualization allows multiple OS on one machine.
+Microservices architecture divides applications into small services.
+Monolithic architecture uses a single codebase.
+Big Data handles massive datasets.
+Hadoop processes big data.
+Spark processes data in memory.
+ETL stands for Extract Transform Load.
+Data warehouses store structured data.
+Data lakes store raw data.
+Business Intelligence helps decision making.
+KPIs measure performance.
+Dashboards visualize key metrics.
+CRM manages customer relationships.
+ERP manages business processes.
+IoT connects devices to the internet.
+Edge computing processes data near the source.
+5G enables faster connectivity.
+Ethical hacking tests system security.
+Penetration testing identifies vulnerabilities.
+Machine learning models require training data.
+Feature engineering improves model performance.
+Cross-validation evaluates model stability.
+Overfitting occurs when model memorizes data.
+Underfitting occurs when model fails to learn.
+Bias affects model fairness.
+Variance affects model flexibility.
+Precision measures correctness of positive predictions.
+Recall measures completeness of positive predictions.
+F1 score balances precision and recall.
+Confusion matrix evaluates classification results.
+ROC curve measures classification performance.
+AUC measures area under ROC curve.
+Gradient descent optimizes model parameters.
+Learning rate controls training speed.
+Epoch is one training cycle.
+Batch size determines data processed at once.
+SQL joins combine tables.
+Inner join returns matching records.
+Left join returns all left records.
+Normalization reduces redundancy.
+Primary key uniquely identifies records.
+Foreign key links tables.
+Indexes improve query performance.
+Stored procedures automate SQL tasks.
+Data governance ensures data quality.
+Data privacy protects personal information.
+GDPR regulates data protection.
+API keys authenticate requests.
+OAuth enables secure login.
+JWT secures authentication.
+Caching improves performance.
+Load balancing distributes traffic.
+Scalability handles increased demand.
+Latency measures delay.
+Throughput measures processing capacity.
+Bandwidth measures data transfer rate.
+Responsive design adapts to devices.
+UI stands for User Interface.
+UX stands for User Experience.
+Wireframes design layout.
+Prototyping tests ideas.
+Figma is used for UI design.
+Canva is used for graphic design.
+Bootstrap is a CSS framework.
+Tailwind CSS is a utility-first CSS framework.
+Web scraping extracts data from websites.
+BeautifulSoup is used for web scraping in Python.
+Regular expressions match text patterns.
+Cron jobs schedule tasks.
+SaaS stands for Software as a Service.
+PaaS stands for Platform as a Service.
+IaaS stands for Infrastructure as a Service.
+Serverless computing runs code without managing servers.
+Data mining discovers patterns in data.
+Sentiment analysis detects emotions in text.
+Topic modeling identifies themes.
+Image recognition detects objects.
+Speech recognition converts speech to text.
+Recommendation systems suggest items.
+Collaborative filtering uses user behavior.
+Content-based filtering uses item features.
+Hyperparameter tuning optimizes models.
+Grid search tests parameter combinations.
+Random search samples random parameters.
+Explainable AI interprets models.
+Edge AI processes AI locally.
+MLOps manages ML lifecycle.
+Data pipelines automate data flow.
+Feature scaling normalizes data.
+Standardization centers data.
+Normalization scales between zero and one.
+Outliers are extreme values.
+Data cleaning removes errors.
+Missing values require handling.
+Imbalanced data affects classification.
+SMOTE handles imbalanced datasets.
+Transfer learning reuses pretrained models.
+BERT is a transformer model.
+GPT is a generative language model.
+LLMs are large language models.
+Tokenization splits text into tokens.
+Stemming reduces words to root.
+Lemmatization converts words to base form.
+Stopwords are common words removed in NLP.
+TF-IDF measures term importance.
+Cosine similarity measures text similarity.
+Vectorization converts text into numbers.
+Embeddings represent semantic meaning.
+Knowledge graphs connect entities.
+Search engines index web pages.
+SEO optimizes website visibility.
+CDN distributes content globally.
+Cookies store browser data.
+Session management tracks users.
+Encryption uses keys.
+Hashing secures passwords.
+SHA is a hashing algorithm.
+RSA is an encryption algorithm.
+VPN secures internet connections.
+Two-factor authentication increases security.
+BI tools analyze data.
+Data storytelling communicates insights.
+A/B testing compares versions.
+Market basket analysis finds associations.
+Time series analysis studies trends.
+ARIMA models time series.
+Forecasting predicts future values.
+Computer networks connect systems.
+LAN is local area network.
+WAN is wide area network.
+IP address identifies devices.
+DNS resolves domain names.
+TCP ensures reliable communication.
+UDP is faster but unreliable.
+Packet switching transfers data in packets.
+Operating systems manage hardware.
+Kernel is core of OS.
+Threads run tasks.
+Multithreading improves performance.
+Deadlock causes process blocking.
+Compiler translates code.
+Interpreter executes code line by line.
+IDE helps coding.
+VS Code is a code editor.
+Debugging finds errors.
+Exception handling manages runtime errors.
+Garbage collection manages memory.
+Pointers store memory addresses.
+Recursion calls function within itself.
+Dynamic programming optimizes solutions.
+Greedy algorithms choose optimal local choices.
+Backtracking explores possibilities.
+Cryptocurrency uses blockchain.
+Smart contracts automate agreements.
+NFT represents digital ownership.
+Augmented reality overlays digital objects.
+Virtual reality creates immersive environments.
+Quantum computing uses qubits.
+Bioinformatics combines biology and computing.
+Robotics integrates AI with hardware.
+Autonomous vehicles use AI.
+Edge devices process data locally.
+Digital twins simulate real systems.
+Industry 4.0 uses automation.
+Green computing reduces energy use.
+Ethics in AI ensures fairness.
+Responsible AI promotes transparency.
+Data lineage tracks data flow.
+Observability monitors systems.
+Logging records events.
+Monitoring tracks performance.
+Incident response handles failures.
+Disaster recovery restores systems.
+Business continuity ensures operations.
+Supply chain analytics optimizes logistics.
+FinTech uses technology in finance.
+HealthTech uses technology in healthcare.
+EdTech improves education with tech.
+PropTech digitizes real estate.
+HR analytics improves workforce decisions.
+Marketing analytics studies campaigns.
+Customer segmentation divides customers.
+Churn prediction predicts customer loss.
+Fraud detection detects anomalies.
+Anomaly detection finds unusual patterns.
+Real-time analytics processes live data.
+Streaming data flows continuously.
+Kafka handles streaming data.
+Airflow schedules workflows.
+NoSQL databases handle unstructured data.
+Graph databases store relationships.
+Neo4j is a graph database.
+DevSecOps integrates security in DevOps.
+Zero trust assumes no trust by default.
+Ethical AI prevents bias.
+Model deployment moves models to production.
+API integration connects services.
+Microcontrollers power IoT devices.
+Raspberry Pi is a small computer.
+Arduino is a microcontroller platform.
+FPGA enables hardware programming.
+High availability ensures uptime.
+Fault tolerance prevents failure.
+Service mesh manages microservices.
+GraphQL queries APIs flexibly.
+Edge servers reduce latency.
+Load testing checks performance.
+Stress testing tests limits.
+Blue green deployment reduces downtime.
+Canary deployment releases gradually.
+Data anonymization protects privacy.
+Open source allows free usage.
+Proprietary software requires license.
+Scripting automates tasks.
+Shell scripting runs commands.
+PowerShell automates Windows tasks.
+Bash runs Linux scripts.
+Object detection finds objects.
+Facial recognition identifies faces.
+Self-driving cars use sensors.
+Neural networks learn patterns.
+AI ethics ensures fairness.
+Digital transformation modernizes businesses.
+Innovation drives growth.
